@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Customize your theme here. -->
+    <style name="MyTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+       <item name="android:windowBackground">@color/backgroundColor</item>
+    </style>
+
+</resources>

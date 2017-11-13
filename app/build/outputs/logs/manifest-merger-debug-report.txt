@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\3cd0cfae062943bba3e1354979779b15\AndroidManifest.xml:17:1-31:12
+MERGED from [nl.dionsegijn:konfetti:1.1.0] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\konfetti-1.1.0.aar\3ab24d963de5f352f04df568abf625ee\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9475fcd7a39285c2998ccce5d2e53717\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\60b78e8c138858e3e4435b5f80e39530\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\97993ec85a27c26a387d93a2e689ee55\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2c7d61baac5799dcde3921b9ac7d1bc7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0d241f3400f632d46bf6a54c5ae6c190\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\146f5a22a867dfaa5e216877d111ef56\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\85ce250b4d980131a8453a4265255d5a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\8dc56152acb01e203e0402c487482649\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\ea519fbb98bd4bdc41de81460f7307bd\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:7:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\3cd0cfae062943bba3e1354979779b15\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\3cd0cfae062943bba3e1354979779b15\AndroidManifest.xml:29:5-20
+MERGED from [nl.dionsegijn:konfetti:1.1.0] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\konfetti-1.1.0.aar\3ab24d963de5f352f04df568abf625ee\AndroidManifest.xml:11:5-53
+MERGED from [nl.dionsegijn:konfetti:1.1.0] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\konfetti-1.1.0.aar\3ab24d963de5f352f04df568abf625ee\AndroidManifest.xml:11:5-53
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9475fcd7a39285c2998ccce5d2e53717\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9475fcd7a39285c2998ccce5d2e53717\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\60b78e8c138858e3e4435b5f80e39530\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\60b78e8c138858e3e4435b5f80e39530\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\97993ec85a27c26a387d93a2e689ee55\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\97993ec85a27c26a387d93a2e689ee55\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2c7d61baac5799dcde3921b9ac7d1bc7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2c7d61baac5799dcde3921b9ac7d1bc7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0d241f3400f632d46bf6a54c5ae6c190\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0d241f3400f632d46bf6a54c5ae6c190\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\146f5a22a867dfaa5e216877d111ef56\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\146f5a22a867dfaa5e216877d111ef56\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\85ce250b4d980131a8453a4265255d5a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\85ce250b4d980131a8453a4265255d5a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\8dc56152acb01e203e0402c487482649\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\8dc56152acb01e203e0402c487482649\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\ea519fbb98bd4bdc41de81460f7307bd\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\ea519fbb98bd4bdc41de81460f7307bd\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:13:9-39
+activity#game.hangman.activities.MainActivity
+ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:14:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:18:27-74
+activity#game.hangman.activities.HowToPlayActivity
+ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:21:9-66
+	android:name
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:21:19-63
+activity#game.hangman.activities.GameActivity
+ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:22:9-61
+	android:name
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:22:19-58
+activity#game.hangman.activities.WonGameActivity
+ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:23:9-64
+	android:name
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:23:19-61
+activity#game.hangman.activities.LostGameActivity
+ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:24:9-65
+	android:name
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:24:19-62
+activity#game.hangman.activities.HighscoreActivity
+ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:25:9-75
+	android:name
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml:25:19-63
+uses-sdk
+INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\3cd0cfae062943bba3e1354979779b15\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\3cd0cfae062943bba3e1354979779b15\AndroidManifest.xml:21:5-23:78
+MERGED from [nl.dionsegijn:konfetti:1.1.0] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\konfetti-1.1.0.aar\3ab24d963de5f352f04df568abf625ee\AndroidManifest.xml:7:5-9:41
+MERGED from [nl.dionsegijn:konfetti:1.1.0] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\konfetti-1.1.0.aar\3ab24d963de5f352f04df568abf625ee\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9475fcd7a39285c2998ccce5d2e53717\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9475fcd7a39285c2998ccce5d2e53717\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\60b78e8c138858e3e4435b5f80e39530\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\60b78e8c138858e3e4435b5f80e39530\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\97993ec85a27c26a387d93a2e689ee55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\97993ec85a27c26a387d93a2e689ee55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2c7d61baac5799dcde3921b9ac7d1bc7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2c7d61baac5799dcde3921b9ac7d1bc7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0d241f3400f632d46bf6a54c5ae6c190\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0d241f3400f632d46bf6a54c5ae6c190\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\146f5a22a867dfaa5e216877d111ef56\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\146f5a22a867dfaa5e216877d111ef56\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\85ce250b4d980131a8453a4265255d5a\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\85ce250b4d980131a8453a4265255d5a\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\8dc56152acb01e203e0402c487482649\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\8dc56152acb01e203e0402c487482649\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\ea519fbb98bd4bdc41de81460f7307bd\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\ea519fbb98bd4bdc41de81460f7307bd\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\3cd0cfae062943bba3e1354979779b15\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anusi\AndroidStudioProjects\Hangman\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\3cd0cfae062943bba3e1354979779b15\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\60b78e8c138858e3e4435b5f80e39530\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\60b78e8c138858e3e4435b5f80e39530\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\97993ec85a27c26a387d93a2e689ee55\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\97993ec85a27c26a387d93a2e689ee55\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2c7d61baac5799dcde3921b9ac7d1bc7\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2c7d61baac5799dcde3921b9ac7d1bc7\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0d241f3400f632d46bf6a54c5ae6c190\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0d241f3400f632d46bf6a54c5ae6c190\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\146f5a22a867dfaa5e216877d111ef56\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\146f5a22a867dfaa5e216877d111ef56\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\85ce250b4d980131a8453a4265255d5a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\85ce250b4d980131a8453a4265255d5a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\8dc56152acb01e203e0402c487482649\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\8dc56152acb01e203e0402c487482649\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\ea519fbb98bd4bdc41de81460f7307bd\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\ea519fbb98bd4bdc41de81460f7307bd\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\3cd0cfae062943bba3e1354979779b15\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Anusi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\3cd0cfae062943bba3e1354979779b15\AndroidManifest.xml:26:9-47

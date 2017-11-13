@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "github"]
+	url = https://github.com/Dani972e/Hangman_game.git
+	fetch = +refs/heads/*:refs/remotes/github/*
+[branch "master"]
