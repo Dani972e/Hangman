@@ -34,14 +34,14 @@ public class GameActivity extends AppCompatActivity implements View.OnClickListe
         setContentView(R.layout.activity_game);
 
         for (int i = 0; i < butId.length; i++) {
-            btnArray[i] = (Button) findViewById(butId[i]);
+            btnArray[i] = findViewById(butId[i]);
             btnArray[i].setOnClickListener(this);
         }
 
-        hangman_image = (ImageView) findViewById(R.id.hangman_image);
-        hiddenWord = (TextView) findViewById(R.id.hiddenWord);
-        life = (TextView) findViewById(R.id.life);
-        score = (TextView) findViewById(R.id.score);
+        hangman_image = findViewById(R.id.hangman_image);
+        hiddenWord = findViewById(R.id.hiddenWord);
+        life = findViewById(R.id.life);
+        score = findViewById(R.id.score);
 
         updateDisplay();
     }

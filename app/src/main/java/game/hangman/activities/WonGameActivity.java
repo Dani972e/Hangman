@@ -34,7 +34,7 @@ public class WonGameActivity extends AppCompatActivity implements View.OnClickLi
         winner.start();
 
         //took this konfetti code from: https://github.com/DanielMartinus/Konfetti
-        final KonfettiView konfettiView = (KonfettiView) findViewById(R.id.viewKonfetti);
+        final KonfettiView konfettiView = findViewById(R.id.viewKonfetti);
         konfettiView.build()
                 .addColors(Color.YELLOW, Color.GREEN, Color.BLUE, Color.RED)
                 .setDirection(0.0, 359.0)
@@ -46,12 +46,12 @@ public class WonGameActivity extends AppCompatActivity implements View.OnClickLi
                 .setPosition(-50f, konfettiView.getWidth() + 50f, -50f, -50f)
                 .stream(300, 5000L);
 
-        continue_btn = (Button) findViewById(R.id.continue_btn);
-        won_view = (TextView) findViewById(R.id.won_view);
-        guesses_view = (TextView) findViewById(R.id.guesses_view);
-        score_view = (TextView) findViewById(R.id.score_view);
-        amountOfGuesses = (TextView) findViewById(R.id.amountOfGuesses);
-        scoreAmount = (TextView) findViewById(R.id.scoreAmount);
+        continue_btn = findViewById(R.id.continue_btn);
+        won_view = findViewById(R.id.won_view);
+        guesses_view = findViewById(R.id.guesses_view);
+        score_view = findViewById(R.id.score_view);
+        amountOfGuesses = findViewById(R.id.amountOfGuesses);
+        scoreAmount = findViewById(R.id.scoreAmount);
 
 
         continue_btn.setOnClickListener(this);

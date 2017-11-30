@@ -39,7 +39,7 @@ public class HighscoreActivity extends AppCompatActivity implements View.OnClick
             dalExceptions.printStackTrace();
         }
 
-        listView = (ListView) findViewById(R.id.highscore_list);
+        listView = findViewById(R.id.highscore_list);
         listView.setAdapter(adapter);
 
     }

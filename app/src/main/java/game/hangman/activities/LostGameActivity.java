@@ -31,10 +31,10 @@ public class LostGameActivity extends AppCompatActivity implements View.OnClickL
         MediaPlayer lost = MediaPlayer.create(this, R.raw.evil_laugh);
         lost.start();
 
-        theCorrectWord = (TextView) findViewById(R.id.theCorrectWord);
-        highscore_btn = (Button) findViewById(R.id.highscore_btn);
-        amountOfGuesses = (TextView) findViewById(R.id.amountOfGuesses);
-        scoreAmount = (TextView) findViewById(R.id.scoreAmount);
+        theCorrectWord = findViewById(R.id.theCorrectWord);
+        highscore_btn = findViewById(R.id.highscore_btn);
+        amountOfGuesses = findViewById(R.id.amountOfGuesses);
+        scoreAmount = findViewById(R.id.scoreAmount);
 
         highscore_btn.setOnClickListener(this);
         theCorrectWord.setText(game.getOrdet());

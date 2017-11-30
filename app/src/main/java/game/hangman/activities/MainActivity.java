@@ -22,9 +22,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         AsyncTaskWords object = new AsyncTaskWords();
         object.execute();
 
-        play = (Button) findViewById(R.id.play);
-        howToPlay = (Button) findViewById(R.id.howToPlay);
-        highscore = (Button) findViewById(R.id.highscore);
+        play = findViewById(R.id.play);
+        howToPlay = findViewById(R.id.howToPlay);
+        highscore = findViewById(R.id.highscore);
 
         play.setOnClickListener(this);
         howToPlay.setOnClickListener(this);
@@ -50,8 +50,4 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     }
 
-    @Override
-    public void onBackPressed() {
-
-    }
 }

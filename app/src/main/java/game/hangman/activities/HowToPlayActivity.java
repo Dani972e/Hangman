@@ -20,7 +20,7 @@ public class HowToPlayActivity extends AppCompatActivity implements View.OnClick
         setContentView(R.layout.activity_how_to_play);
 
 
-        play_2 = (Button) findViewById(R.id.play_2);
+        play_2 = findViewById(R.id.play_2);
         play_2.setOnClickListener(this);
 
 
